@@ -1,4 +1,5 @@
-**# my_todo_list_app**
+**<h1>my_todo_list_app</h1>**
+
 
 This repository contains a Django project that implements a todo list application with user authentication. The application provides features like user registration, login, and full CRUD (Create, Read, Update, and Delete) functionality for managing todo items.
 
