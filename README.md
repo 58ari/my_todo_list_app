@@ -15,7 +15,7 @@ This repository contains a Django project that implements a todo list applicatio
 
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-username/my_todo_list_app.git
 2. Navigate to the project directory:
    
    cd my_todo_list_app
